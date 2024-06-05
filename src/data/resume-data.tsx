@@ -57,6 +57,24 @@ export const RESUME_DATA = {
       start: "2014",
       end: "2018",
     },
+    {
+      school: "Cambridge English Exam",
+      degree: "First Certificate in English (FCE)",
+      start: "2017",
+      end: "2018",
+    },
+    {
+      school: "Cambridge English Exam",
+      degree: "Preliminary English Test (PET)",
+      start: "2016",
+      end: "2017",
+    },
+    {
+      school: "Cambridge English Exam",
+      degree: "Key English Test (KET)",
+      start: "2015",
+      end: "2016",
+    },
   ],
   work: [
     {
