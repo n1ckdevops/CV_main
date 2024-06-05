@@ -40,7 +40,7 @@ export const RESUME_DATA = {
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/nickdevops/",
+        url: "https://linkedin.com/in/nickdevops/",
         icon: LinkedInIcon,
       },
       {
@@ -83,7 +83,7 @@ export const RESUME_DATA = {
       badges: ["Remote"],
       title: "Mentor",
       logo: ConsultlyLogo,
-      start: "2024",
+      start: "2023",
       end: null,
       description:
         "Online courses on website development for beginners. HTML/CSS",
@@ -91,12 +91,13 @@ export const RESUME_DATA = {
   ],
   skills: [
     "HTML",
-    "CSS",
+    "CSS(SASS,SCSS)",
     "Tailwind.css",
     "Bootstrap",
     "JavaScript",
     "Vue.js",
     "Figma",
+    "Git",
   ],
   projects: [
     {
