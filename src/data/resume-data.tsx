@@ -148,7 +148,7 @@ export const RESUME_DATA = {
 
       link: {
         label: "compas-project",
-        href: "hhttps://compas-project.vercel.app/",
+        href: "https://compas-project.vercel.app/",
       },
     },
   ],
