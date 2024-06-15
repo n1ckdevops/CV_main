@@ -141,5 +141,15 @@ export const RESUME_DATA = {
         href: "http://electrician-services.nickdevops.wuaze.com/",
       },
     },
+    {
+      title: "COMPAS",
+      techStack: ["HTML", "CSS", "JavaScript", "Bootstrap", "Vue", "Nuxt3 JS"],
+      description: "A website is for checking car fines",
+
+      link: {
+        label: "compas-project",
+        href: "hhttps://compas-project.vercel.app/",
+      },
+    },
   ],
 } as const;
